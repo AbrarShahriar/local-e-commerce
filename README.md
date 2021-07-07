@@ -5,6 +5,7 @@ A location based e-commerce site.
 
 - [ ] Complete User Authentication
 - [ ] Shop create, update, delete option
+- [ ] Seller/shop dashboard
 - [ ] Product create, update, delete option
 - [ ] Filter products
 - [ ] Search by location option
